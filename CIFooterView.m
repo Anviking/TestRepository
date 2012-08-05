@@ -4,7 +4,7 @@
 //
 //  Created by Johannes Lund on 2011-11-20.
 //  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
-//Test
+//Test test 2
 
 #import "CIFooterView.h"
 #import "SettingsTableController.h"
