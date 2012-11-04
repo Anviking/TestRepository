@@ -14,6 +14,8 @@
 
 @interface CIFooterView (private)
 @end
+
+//LOL
     
 @implementation CIFooterView
 @synthesize settingsPanel = _settingsPanel;
