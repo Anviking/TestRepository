@@ -4,7 +4,7 @@
 //
 //  Created by Johannes Lund on 2011-11-20.
 //  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
-//Test test 6
+//Test test 7
 
 #import "CIFooterView.h"
 #import "SettingsTableController.h"
@@ -128,8 +128,8 @@
     rect.origin.y = 700-self.settingsPopup.frame.size.height;
     
     self.settingsPopup.frame = rect;
-                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                  
     
     [self.settingsPopup setNeedsDisplay];
     [self.settingsPopup layoutSubviews];
@@ -175,4 +175,4 @@
     
 }
 
-@end
+@en
