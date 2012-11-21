@@ -48,6 +48,8 @@
     return self;
 }
 
+//void foo
+
 - (SettingsController *)ST {
     
     if (!_ST) _ST = [(AppDelegate *)[[UIApplication sharedApplication] delegate] settingsController];
@@ -128,8 +130,8 @@
     rect.origin.y = 700-self.settingsPopup.frame.size.height;
     
     self.settingsPopup.frame = rect;
-                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                 
     
     [self.settingsPopup setNeedsDisplay];
     [self.settingsPopup layoutSubviews];
@@ -175,4 +177,4 @@
     
 }
 
-@en
+@e
