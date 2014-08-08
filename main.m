@@ -4,7 +4,7 @@
 //
 //  Created by Johannes Lund on 2013-01-08.
 //  Copyright (c) 2013 Anviking. All rights reserved.
-// swift rules 
+// swift rules!
 
 #import <UIKit/UIKit.h>
 
