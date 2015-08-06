@@ -1,4 +1,4 @@
- __[Hello!]__
+ #Hello
 
 I am a tableviewCell containing a view that can parse .md-files. I should resize properly, so let's test:
 
